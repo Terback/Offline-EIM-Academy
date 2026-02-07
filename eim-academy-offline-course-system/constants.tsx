@@ -147,12 +147,17 @@ export const SITE_CONFIG: SiteConfig = {
   ],
   cta: {
     title: '开启你的工程师成长之旅',
-    qrImage: 'images/qr.jpg',
+    qrImage: 'https://github.com/Terback/Images/blob/main/OfflineEIMAcademy/Capture.PNG?raw=true',
     contact: '电话: 778-321-1369 | 微信: EIM_Technology'
   },
   footer: {
     about: 'EIM Academy 致力于打造最具活力的项目制工程学习社区，让每个孩子都能在真实项目中发现自己。',
     address: '180-6660 Graybar Rd, Richmond, BC',
     email: 'info@eimtechnology.com',
+    social: [
+      { platform: '微信公众号', url: '#' },
+      { platform: 'Bilibili', url: '#' },
+      { platform: 'LinkedIn', url: '#' },
+    ]
   }
 };
