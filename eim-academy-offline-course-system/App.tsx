@@ -407,7 +407,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="max-w-7xl mx-auto border-t border-gray-800 mt-20 pt-10 text-[11px] font-bold uppercase tracking-widest flex flex-col md:flex-row justify-between gap-4">
-      <span>© 2024 EIM Academy. 保留所有权利.</span>
+      <span>© 2026 EIM Academy. 保留所有权利.</span>
       <span className="opacity-50 tracking-[0.3em]">Engineering / Design / Innovation</span>
     </div>
   </footer>
